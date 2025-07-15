@@ -3,7 +3,7 @@ _A comprehensive pre-pandemic global analysis of healthcare bed capacity_
 
 ---
 
-## 📘 Introduction
+## Introduction
 
 ### **Objective**
 Analyze global hospital bed distribution to assess healthcare infrastructure across countries and identify gaps in resource availability.
@@ -11,9 +11,7 @@ Analyze global hospital bed distribution to assess healthcare infrastructure acr
 ### **Dataset**
 Utilizes a global healthcare capacity dataset, including hospital beds per country over time, categorized by type.
 
----
-
-## 🔍 Focus Areas
+### Focus Areas
 
 - Population vs. bed availability  
 - Bed type trends  
@@ -21,7 +19,7 @@ Utilizes a global healthcare capacity dataset, including hospital beds per count
 
 ---
 
-## 📊 The Dataset and Key Metrics
+## The Dataset and Key Metrics
 
 ### **Key Variables**
 - `Country`
@@ -46,6 +44,8 @@ Utilizes a global healthcare capacity dataset, including hospital beds per count
   - External references for imputation
   - Exclusion in analysis when appropriate
 - Data was cleaned and grouped to standardize bed type definitions and population metrics
+  
+<img width="970" height="251" alt="Screenshot 2025-07-15 182131" src="https://github.com/user-attachments/assets/58a4bc5c-1e84-463f-bacc-1464cb73b907" />
 
 ---
 
@@ -120,6 +120,10 @@ Utilizes a global healthcare capacity dataset, including hospital beds per count
 
 ## 📊 Dashboard
 
-> 📍 **Explore the Dashboard**: [Link to Tableau / Power BI / Website if available]
+<img width="1454" height="988" alt="Screenshot 2025-07-15 181123" src="https://github.com/user-attachments/assets/b966898d-9dbf-4e87-b522-34e412ae89fc" />
+
+<img width="1495" height="1014" alt="Screenshot 2025-07-15 181138" src="https://github.com/user-attachments/assets/e31f9885-90bf-43e1-98a7-e2451cb86d30" />
+
+> 📍 **Explore the Dashboard**: https://public.tableau.com/app/profile/jillian.ireland/viz/GlobalHospitalBedCapacityAnalysisDashboard/Overview
 
 The dashboard provides interactive views into bed availability by country, bed type, and over time — enabling evidence-based decisions and global comparisons.
